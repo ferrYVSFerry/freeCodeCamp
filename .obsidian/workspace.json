@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e198f8859c778d72",
+        "id": "bfecc4df0e361e6c",
         "type": "tabs",
         "children": [
           {
-            "id": "d49dd28a32dbd30e",
+            "id": "4dc4652a14a3ca3a",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "HTML - CSS/Responsive Web Design Certification/HTML/1. Basic HTML.md",
-                "bFile": "HTML - CSS/Responsive Web Design Certification/HTML/1. Basic HTML.md",
-                "aRef": ""
+                "file": "HTML - CSS/Responsive Web Design Certification/HTML/4. Accessibility.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: 1. Basic HTML  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "4. Accessibility"
             }
           }
         ]
@@ -177,7 +177,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d49dd28a32dbd30e",
+  "active": "e73a90988bd16655",
   "lastOpenFiles": [
     "Relational Databases/2. Bash Fundamentals.md",
     "Relational Databases/1. Code Editors.md",
