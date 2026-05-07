@@ -39,3 +39,4 @@ Fibre optic connections rely on glass or plastic fibres to transmit data via lig
 
 Satellite connections use an array of satellites orbiting the earth to connect various devices across the world. And finally, similar to that, a 5G home internet provider uses the cell tower infrastructure to keep you online.
 ## How Can You Use File Management Applications on Your Computer?
+This is a change
