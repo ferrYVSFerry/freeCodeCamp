@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Relational Databases/2. Bash Fundamentals.md",
+                "file": "Relational Databases/3. SQL and PostgreSQL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Bash Fundamentals"
+              "title": "3. SQL and PostgreSQL"
             }
           }
         ]
@@ -193,6 +193,8 @@
   },
   "active": "2e967ea127d840a1",
   "lastOpenFiles": [
+    "Relational Databases/2. Bash Fundamentals.md",
+    "Relational Databases/3. SQL and PostgreSQL.md",
     "Relational Databases/1. Code Editors.md",
     "p.md",
     "HTML - CSS/Responsive Web Design Certification/3. CSS/Basic CSS.md",
@@ -207,7 +209,6 @@
     "HTML - CSS/Responsive Web Design Certification/HTML/4. Accessibility.md",
     "HTML - CSS/Responsive Web Design Certification/Computers/Computer Basics.md",
     "HTML - CSS/Responsive Web Design Certification/Computers",
-    "Relational Databases/2. Bash Fundamentals.md",
     "Python/Python Certification/Tries_graph.png",
     "HTML - CSS/Responsive Web Design Certification/HTML/1. Basic HTML.md",
     "HTML - CSS/Responsive Web Design Certification/HTML/2. Semantic HTML.md",
@@ -227,7 +228,6 @@
     "Python/Python Certification/6. Object-Oriented Programming (OOP).md",
     "Python/Python Certification/1. Python Basics.md",
     "Python/Python Certification/3. Dictionaries, Sets And Modules.md",
-    "Python/Python Certification/5. Classes and Objects.md",
     "Python/Python Basics/Untitled",
     "Python/Python Certification",
     "Responsive Web Design/diagram-2.png",
