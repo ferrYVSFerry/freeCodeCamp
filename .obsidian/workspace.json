@@ -11,10 +11,14 @@
             "id": "2e967ea127d840a1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Relational Databases/2. Bash Fundamentals.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nuova scheda"
+              "title": "2. Bash Fundamentals"
             }
           }
         ]
@@ -189,6 +193,8 @@
   },
   "active": "2e967ea127d840a1",
   "lastOpenFiles": [
+    "Relational Databases/1. Code Editors.md",
+    "p.md",
     "HTML - CSS/Responsive Web Design Certification/3. CSS/Basic CSS.md",
     "HTML - CSS/Responsive Web Design Certification/2. Computers/Computer Basics.md",
     "HTML - CSS/Responsive Web Design Certification/3. CSS",
@@ -202,7 +208,6 @@
     "HTML - CSS/Responsive Web Design Certification/Computers/Computer Basics.md",
     "HTML - CSS/Responsive Web Design Certification/Computers",
     "Relational Databases/2. Bash Fundamentals.md",
-    "Relational Databases/1. Code Editors.md",
     "Python/Python Certification/Tries_graph.png",
     "HTML - CSS/Responsive Web Design Certification/HTML/1. Basic HTML.md",
     "HTML - CSS/Responsive Web Design Certification/HTML/2. Semantic HTML.md",
@@ -226,7 +231,6 @@
     "Python/Python Basics/Untitled",
     "Python/Python Certification",
     "Responsive Web Design/diagram-2.png",
-    "Responsive Web Design/4 - Gestione dei form HTML.md",
     "Responsive Web Design/diagram-1.png"
   ]
 }
